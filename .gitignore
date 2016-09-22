@@ -1,5 +1,4 @@
 # The build file
 *.HEX
 *.LOG
-*.dat
 *.LST

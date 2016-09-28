@@ -1,11 +1,11 @@
 [Descr]
-AIN1=lLineFollower
-AIN2=mLineFollower
-AIN3=rLineFollower
+AIN1=leftLineFollow
+AIN2=midLineFollow
+AIN3=rightLineFollow
 AIN4=lightSensor
 AIN5=potentiometer
-AIN6=xAccelerometer
-AIN7=yAccelerometer
+AIN6=xAccel
+AIN7=yAccel
 AIN8=gyro
 DIO1=button
 DIO2=limitSwitch
@@ -20,8 +20,8 @@ DIO10=greenLED
 DIO11=yellowLED
 DIO12=redLED
 PWM1=flashlight
-PWM2=lDrive
-PWM3=rDrive
+PWM2=leftDrive
+PWM3=rightDrive
 PWM4=arm
 PWM5=claw
 PWM6=
